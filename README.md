@@ -11,13 +11,15 @@
 
 <!--- <h3 align="center"> Enthusiastic about coding, data analytics, aviation, deep space, and machine learning... </h3> --->
 
-💡 I am currently seeking **Summer 2024** engineering internships and co-op opportunities
+💡 I am currently seeking **Summer 2024** internships and co-op opportunities
 
-🏦 Previous Software Engineer Co-Op student at TD Bank
+🏦 Previous Research Assistant Co-Op student at *McMaster University*
+
+🏦 Present Research Assistant at *LIVELab McMaster University*
 
 🤖 I’m currently studying **Computer Science** at *McMaster University* 🍁
 
-🛰️ I am a Payload Firmware Specialist on the <a href="https://mcmasterneudose.ca/" target="_blank">McMaster Interdisciplinary Satellite Team</a>
+🛰️ I am a website designer on the <a href="https://mcmasterneudose.ca/" target="_blank">McMaster Interdisciplinary Satellite Team</a>
 
 🏎️ I am programming the embedded software for our racecar at <a href="https://macformularacing.com/" target="_blank">MAC Formula Electric Racing</a>
 
