@@ -1,21 +1,21 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi there, my name is Teghveer
+  Hi there, my name is Harkirat Singh
 </h1>
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;You+can+call+me+Tegh;Engineering+Student;Software+Developer;Problem+Solver" alt="Typing SVG" /></a> </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30F755&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+page;You+can+call+me+Harkirat;CS+Student;Website+Developer;Problem+Solver" alt="Typing SVG" /></a> </h1>
 </p>
 
 ---
 <!--- Updated: Feb 7,2023 ---> 
 
-<!--- <h3 align="center"> Enthusiastic about fast cars, aviation, deep space, and machine learning... </h3> --->
+<!--- <h3 align="center"> Enthusiastic about coding, data analytics, aviation, deep space, and machine learning... </h3> --->
 
 💡 I am currently seeking **Summer 2024** engineering internships and co-op opportunities
 
 🏦 Previous Software Engineer Co-Op student at TD Bank
 
-🤖 I’m currently studying **Mechatronics Engineering & Society** at *McMaster University* 🍁
+🤖 I’m currently studying **Computer Science** at *McMaster University* 🍁
 
 🛰️ I am a Payload Firmware Specialist on the <a href="https://mcmasterneudose.ca/" target="_blank">McMaster Interdisciplinary Satellite Team</a>
 
